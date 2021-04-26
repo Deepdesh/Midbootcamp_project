@@ -1,6 +1,8 @@
 # Midbootcamp_project
 Mid Bootcamp project -- Refugee and Asylum data
 
+Team Members: Natalia Janssen, Neema Helan Jaimon and Desh Deepak
+
 
 final edited dataset is added to the repo. Raw datasets have been added as well. 
 
